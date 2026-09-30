@@ -35,7 +35,7 @@ TypeScript / React / Next.jsを中心に、画面・API・データベースを�
 [![TypeScript, React, Next.js, Prisma, PostgreSQL](https://skillicons.dev/icons?i=ts,react,nextjs,prisma,postgres&theme=dark&perline=5)](https://github.com/tandpfun/skill-icons)
 
 主に使用：TypeScript / React / Next.js / Prisma / PostgreSQL  
-使用経験：Go / Python
+使用経験：Python
 
 ## Development Focus
 
